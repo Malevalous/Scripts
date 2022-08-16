@@ -8,6 +8,7 @@ Note: This script only supports Violentmonkey & Tampermonkey.
 Preview
 NightTheater
 
+![HXjbvgv](https://user-images.githubusercontent.com/57406482/184812647-ea7bbf9d-6d1a-4b64-86e8-05041786cf3b.png)
 
 FAQ
 Why should I use this over youtube-dl?
