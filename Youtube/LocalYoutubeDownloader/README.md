@@ -23,9 +23,6 @@ Use youtube-dl, since this script runs totally in a browser, it is heavily limit
 I want [something] feature to be added.
 Use a tool that supports your need, youtube-dl should be able to meet most of your need.
 
-About
-This script based on maple3142/ytdl, which is my another project.
-
 I just port some code to let it works in browser & add UI interface.
 
 Help translating this script
