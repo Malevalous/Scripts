@@ -10,7 +10,8 @@ NightTheater
 
 ![HXjbvgv](https://user-images.githubusercontent.com/57406482/184812647-ea7bbf9d-6d1a-4b64-86e8-05041786cf3b.png)
 
-FAQ
+FAQ:
+
 Why should I use this over youtube-dl?
 If fact, youtube-dl is much more reliable than this script. If you are find with youtube-dl, just stick with it. But the point of this script is that you can easily download a YouTube video within a click, no need to open your terminal and enter youtube-dl command. But, you should use youtube-dl if you want to download more than 1080p or download a playlist.
 
